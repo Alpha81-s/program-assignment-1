@@ -15,9 +15,3 @@ p e
 
 #DC
 
-7 sx 
-4 sy
-lx ly + d * sa
-lx d * lx ly * 2 * - ly d * + sb
-e = a - b 
-p e
