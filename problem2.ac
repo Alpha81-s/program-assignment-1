@@ -1,4 +1,3 @@
-#AC
 i a
 i b
 i u
@@ -15,16 +14,3 @@ w = u + v
 p u
 p v
 p w
-
-#DC 
-
-6 sa 
-2 sb
-
-2 la * 3 lb * + su 
-la lb - d * sv 
-lu lv + sw
-
-lu p
-lv p 
-lw p 
